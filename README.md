@@ -30,6 +30,9 @@ press it on "X".
 ## PT: pathfinder.py
 Use the num pad to select a quadrant. Begin with 1->N.
 
+## SAT: Shifting Attention
+https://www.psytoolkit.org/experiment-library/experiment_wcst.html
+
 ## TODO:
 
 - Math questions w/ multiple choice format
@@ -39,7 +42,6 @@ Use the num pad to select a quadrant. Begin with 1->N.
 - DAT: Divided Attention
 - ASC: Auditory sequence comparison
 - PF: Pathfinder
-- SAT: Shifting attention
 - DTT: Dual Task
 - COWAT: Verbal fluency test
 - PASAT: Process Auditory inputs
